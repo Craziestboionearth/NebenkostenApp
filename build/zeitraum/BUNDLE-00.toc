@@ -1,0 +1,1 @@
+([('zeitraum', '/Users/lenny/Desktop/zeitraum/dist/zeitraum', 'EXECUTABLE')],)
