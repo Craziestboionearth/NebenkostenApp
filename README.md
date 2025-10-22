@@ -19,3 +19,6 @@ Dadurch sollte sich die .app Problemlos öffnen lassen.
 
 
 Das App-Icon kann ganz einfach angepasst werden, indem die icon.icns Datei, die in der .app verpackt ist, entsprechend überschrieben wird. Die voreingestellte .icns ist auch hier im Projekt-Root zu finden unter dem Namen "icon.icns".
+
+
+Es ist außerdem ein direkter .dmg Installer für die App im Projekt-Root zu finden.
